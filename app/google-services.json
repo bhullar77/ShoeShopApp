@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284318056079",
+    "firebase_url": "https://e-commerce-bc5e9-default-rtdb.firebaseio.com",
+    "project_id": "e-commerce-bc5e9",
+    "storage_bucket": "e-commerce-bc5e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284318056079:android:35ff21f2d9796d079c3afa",
+        "android_client_info": {
+          "package_name": "com.example.shoeshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284318056079-ivi59mag8f2n4ms44ha5ileqibcf7dvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsSPPIZFYqdEXFjO5zOs4eHA3NgSB7PoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284318056079-ivi59mag8f2n4ms44ha5ileqibcf7dvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
